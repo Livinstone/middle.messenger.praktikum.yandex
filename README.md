@@ -4,6 +4,8 @@
 
 [Макеты базового дизайна в figma](https://www.figma.com/design/s44oiViJ4LLYmpgSZqG17c)
 
+[Сборка ветки deploy в netlify.app](https://lucent-moxie-a1b0ca.netlify.app/)
+
 <h3>Установка</h3>
 ```bash
 npm install
