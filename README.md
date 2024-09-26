@@ -1,6 +1,22 @@
-Практикум яндекс - проект messenger
-## Установка
+<h1>Практикум Яндекс - Проектная работа 1-й спринт</h1>
 
-- `npm install` — установка стабильной версии,
-- `npm start` — запуск версии для разработчика,
-- `npm run build:prod` — сборка стабильной версии.
+[Ссылка на Pull request Sprint 1](https://github.com/livinstone/middle.messenger.praktikum.yandex/pull/1)
+
+[Макеты базового дизайна в figma](https://www.figma.com/design/s44oiViJ4LLYmpgSZqG17c)
+
+<h3>Установка</h3>
+```bash
+npm install
+```
+
+<h3>Запуск версии для разработчика</h3>
+```bash
+npm start
+```
+
+<h3>Сборка стабильной версии</h3>
+```bash
+npm run build:prod
+``` 
+
+
